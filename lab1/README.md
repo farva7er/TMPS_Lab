@@ -49,5 +49,7 @@
       Example Client <--> Sandbox (https://github.com/farva7er/totem/blob/main/sandbox/src/Sandbox.cpp)
  
  
+ For full src of the project see: https://github.com/farva7er/totem 
+ 
   
   
